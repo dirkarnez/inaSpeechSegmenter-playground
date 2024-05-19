@@ -1,1 +1,1 @@
-bpy==2.82.1
+inaSpeechSegmenter==0.7.8
